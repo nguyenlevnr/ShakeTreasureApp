@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShakeTreasureApp</string>
+    <string name="bomb_icon">bomb_icon</string>
+    <string name="play_btn">Play</string>
+    <string name="quit_btn">Log Out</string>
+    <string name="check_btn">Check</string>
+    <string name="next_btn">Next</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="img_true">TRUE</string>
+    <string name="img_false">FALSE</string>
+    <string name="restart_btn">Restart</string>
+    <string name="high_score_btn">Score</string>
+    <string name="new_game_btn">New Game</string>
+    <string name="key_10">0</string>
+    <string name="text_edit"></string>
+    <string name="view_player">Player</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

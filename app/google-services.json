@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45977082310",
+    "firebase_url": "https://shaketreasure.firebaseio.com",
+    "project_id": "shaketreasure",
+    "storage_bucket": "shaketreasure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45977082310:android:1144ee2a5ece9357",
+        "android_client_info": {
+          "package_name": "com.example.thaonguyenlp.shaketreasureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45977082310-ivcth019dj3ciqcdfotk80l00p1cd9rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thaonguyenlp.shaketreasureapp",
+            "certificate_hash": "fb95f426fa47336a3b2872c669f9361d7b3a56b6"
+          }
+        },
+        {
+          "client_id": "45977082310-8dlq8e0c34v229d79qm9qjkgknho1jc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6LszNX164HOPftIaEpu0MZmcAOYWfi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45977082310-8dlq8e0c34v229d79qm9qjkgknho1jc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
